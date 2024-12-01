@@ -51,7 +51,6 @@ cd MarketSegmentation
 <h2>Usage</h2>
 <p>Start the Flask application:</p>
 <pre><code>python app.py</code></pre>
-<p>Visit <a href="http://localhost:5000">http://localhost:5000</a> to access the Market Segmentation system.</p>
 
 <h2>Future Improvements</h2>
 <ul>
