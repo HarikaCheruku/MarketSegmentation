@@ -44,6 +44,10 @@ cd MarketSegmentation
 <pre><code>pip install -r requirements.txt</code></pre>
 
 <h2>Usage</h2>
+<p>Before running the application, train the K-Means model:</p>
+<pre><code>python train_market.py</code></pre>
+<p>This will generate the trained K-Means model file <strong>kmeans_model.pkl</strong>.</p>
+
 <p>Start the Flask application:</p>
 <pre><code>python app.py</code></pre>
 <p>Visit <a href="http://localhost:5000">http://localhost:5000</a> to access the Market Segmentation system.</p>
