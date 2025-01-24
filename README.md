@@ -16,8 +16,7 @@
 <ul>
   <li>Python (Flask, Scikit-learn, Matplotlib, Pandas)</li>
   <li>Jupyter Notebooks for model training</li>
-  <li>Flask for building the web application</li>
-  <li>SQLite database for storing customer data</li>
+  <li>Scikit-learn for building the web application</li>
 </ul>
 
 <h2>Project Structure</h2>
